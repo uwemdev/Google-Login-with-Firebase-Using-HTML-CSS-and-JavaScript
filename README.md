@@ -41,7 +41,7 @@ Firebase Setup:
 How to Run?
 
     Download and Install XAMPP.
-    Download the provided source code zip file.
+    Download the provided source code zip file
 
 Note: This folder must be store in htdocs folder to avoid error with firebase.
 Installation/Setup:
